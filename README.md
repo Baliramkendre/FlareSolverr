@@ -1,0 +1,2 @@
+# FlareSolverr
+bypass cloudflare 
