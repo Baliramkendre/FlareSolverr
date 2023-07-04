@@ -1,5 +1,6 @@
 # FlareSolverr
 bypass cloudflare 
+Use:http://localhost:4444/
 
 # FlareSolverr
 
